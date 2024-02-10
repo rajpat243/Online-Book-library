@@ -12,4 +12,5 @@ Run the backend in VScode making sure nodeman and express are installed, use loc
 Run the frontend folder using Vite  
 
 -cd into front end folder and run 'npm run build' 
+
 -use (http://localhost:5173/) to open
